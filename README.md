@@ -1,8 +1,8 @@
 ## Olá, Me chamo Deiverson Santos!
 
- <a href="https://github.com/DeiversonSantosDev">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=DeiversonSantosDev&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeiversonSantosDev&layout=compact&langs_count=7&theme=omni"/>
+ <a href="https://github.com/deiversonsantosdev">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=deiversonsantosdev&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deiversonsantosdev&layout=compact&langs_count=7&theme=omni"/>
 </div>
 
 ## **Linguagens e Ferramentas:**  
@@ -25,7 +25,7 @@
   <a href = "mailto:contatodeiversonsantos@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/deiversonsantosdev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-  ![Snake animation](https://github.com/DeiversonSantosDev/DeiversonSantosDev/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/deiversonsantosdev/deiversonsantosdev/blob/output/github-contribution-grid-snake.svg)
 
 
 </div>
