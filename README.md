@@ -1,16 +1,15 @@
 
 
-<div align="center">
- 
+
  <h1> Olá, Me chamo Deiverson Santos! </h1>
- 
+
   <a href="https://github.com/deiversonsantosdev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deiversonsantosdev&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deiversonsantosdev&theme=dracula&hide_border=false&&layout=compact"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=deiversonsantosdev&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deiversonsantosdev&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
+
  
 ## **Linguagens e Ferramentas:**  
-
 
  <div style="display: inline"><br>
   <img align="center" alt="Deiv-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -35,7 +34,7 @@
   ![Snake animation](https://github.com/deiversonsantosdev/deiversonsantosdev/blob/output/github-contribution-grid-snake.svg)
 </div>
 
-</div>
+
   
  
  
