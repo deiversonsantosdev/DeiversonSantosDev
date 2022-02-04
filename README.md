@@ -26,7 +26,7 @@
   <img align="right" alt="Deiv-pic"  width="150px" height="150px" style="border-radius:50px, white;" src="https://user-images.githubusercontent.com/94877105/152522511-8351d9de-e4f9-4e4a-a837-9eea1dda6826.png">
 </div>
   
-  ##
+  ###
   <div>
 
   <a href = "mailto:contatodeiversonsantos@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
