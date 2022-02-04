@@ -4,6 +4,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DeiversonSantosDev&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeiversonSantosDev&layout=compact&langs_count=7&theme=omni"/>
 </div>
+
+## **Linguagens e Ferramentas:**  
 <div style="display: inline_block"><br>
   <img align="center" alt="Deiv-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Deiv-Nd" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
@@ -14,7 +16,7 @@
   <img align="center" alt="Deiv-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Deiv-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg">
 
-  <img align="right" alt="Deiv-pic"  width="150px" height="150px" style="border-radius:50px, white;" src="https://user-images.githubusercontent.com/94877105/152522511-8351d9de-e4f9-4e4a-a837-9eea1dda6826.png">
+  <img align="right" alt="Deiv-pic"  width="150px" height="150px" style="border-radius:50px, white;" src="https://user-images.githubusercontent.com/94877105/152542371-d6a162a6-ab1e-46b5-a7ff-7b2d0e1f6d5b.gif">
 </div>
   
   ##
